@@ -10,6 +10,3 @@ export function setMealsByIngredients(state, meals) {
 export function setIngredient(state, ingredient) {
   state.ingredient = ingredient
 }
-export function setLengthMeal(state, length) {
-  state.lengthMeal = length
-}

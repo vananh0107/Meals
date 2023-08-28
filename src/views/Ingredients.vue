@@ -29,7 +29,6 @@ import { onMounted, ref } from "vue";
 import { useRouter } from "vue-router";
 import axiosClient from "../axiosClient";
 import store from "../store";
-import Pagination from "../components/Pagination.vue";
 const router = useRouter();
 const keyword = ref("");
 const ingredients = ref([]);

@@ -3,5 +3,4 @@ export default {
   mealsByLetter: [],
   mealsByIngredient: [],
   ingredient: {},
-  lengthMeal:0,
 }
